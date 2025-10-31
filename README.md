@@ -138,22 +138,7 @@ Then install all dependencies listed in requirements.txt
 
 pip install -r requirements.txt
 
-2. Project Import Structure
-
-Ensure your directory looks like this:
-
-project_root/
-│
-├── imports_and_models.py
-├── text_processing_utils.py
-├── merging_utils.py
-├── entity_analysis.py
-├── summary_generation.py
-├── evaluation_utils.py
-├── graph_prompt.py
-└── __init__.py   
-
-3. Example Usage
+2. Example Usage
 
 Here’s an example end-to-end workflow combining the modules.
 
