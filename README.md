@@ -128,9 +128,7 @@ Purpose:
 Extracts key structured metadata (title, author, year, abstract, etc.) from unstructured text.
 
 
-# How to Use:
-
-🚀 How to Run
+# 🚀 How to Run
 1. Set up your environment
 
 Make sure you have Python >= 3.12 installed.
@@ -148,3 +146,8 @@ from summary_generation import generate_summary
 from merging_utils import merge_original_and_generated
 from entity_analysis import compute_ers_hallucination_dss
 from evaluation_utils import create_gold_generated_df
+
+
+# Referencing, Citation and Attribution:
+
+If you find this project useful please cite it as: 
