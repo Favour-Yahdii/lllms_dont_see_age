@@ -435,9 +435,4 @@ dependencies:
       - wrapt==1.16.0
       - xxhash==3.5.0
       - yarl==1.17.1
-variables:
-  GOOGLE_API_KEY: ''
-  '': ''
-  "'AIzaSyChXkPznd3_mbPHU1Gemy-m5cf7pwDFgV4'": ''
-  "'GOOGLE'": ''
-prefix: C:\Users\Yahdii\.conda\envs\graphrag
+
